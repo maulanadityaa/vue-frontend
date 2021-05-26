@@ -36,7 +36,7 @@
                             <b-button
                               @click="pinjamBuku(book.id)"
                               variant="primary"
-                              >Pinjam Buku</b-button
+                              >Pinjam Sekarang</b-button
                             >
                           </td>
                         </div>
